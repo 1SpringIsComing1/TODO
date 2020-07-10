@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcc411f8-1e67-4de5-89f7-5bae20f254db" name="Default Changelist" comment="" />
+    <list default="true" id="bcc411f8-1e67-4de5-89f7-5bae20f254db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +73,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -101,6 +106,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -148,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594287030819</updated>
       <workItem from="1594287031928" duration="1132000" />
-      <workItem from="1594369903211" duration="2905000" />
+      <workItem from="1594369903211" duration="3398000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1594372750346</created>
@@ -157,13 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1594372750347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1594372985678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594372985678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/todo-ui" />
+    </ignored-roots>
     <MESSAGE value="Initial Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -189,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594371880795" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1594372749924">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1594373293814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594372749924" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594373293814" />
     <state x="740" y="213" key="FileChooserDialogImpl" timestamp="1594287083251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -201,10 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594372915036" />
-    <state x="830" y="413" key="Github.ShareDialog" timestamp="1594372848169">
+    <state x="830" y="413" key="Github.ShareDialog" timestamp="1594373202170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594372848169" />
+    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594373202170" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594372930267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,9 +257,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="625" y="219" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594287089833" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1594372760004">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1594373183782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594372760004" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594373183782" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1594373116559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594373116559" />
   </component>
 </project>
