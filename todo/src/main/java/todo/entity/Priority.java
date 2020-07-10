@@ -15,11 +15,5 @@ public class Priority {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String publicId;
-    @ManyToOne
-    @JoinColumn(name="priorityTypeId")
-    private PriorityType priorityType;
-    @ManyToOne
-    @JoinColumn(name="colorPriorityId")
-    private ColorPriority colorPriority;
+    private String priority;
 }
